@@ -2,3 +2,5 @@ node_modules
 *.cache
 *tmp
 *public/assets/
+config/master.key
+config/credentials.yml.enc
